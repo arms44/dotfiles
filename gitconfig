@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = armaan@odore.co.uk
+	name = Armaan Mehta
